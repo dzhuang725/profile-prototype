@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3AB9AC88-8E63-4BC1-BF24-D02C91315197"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "295394F5-DCAF-4FAD-BE42-7AA665BF82C7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "profile-prototype/EditNameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "EditNameViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "81D4FA26-0493-4A10-A4C7-F9925C43A2E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "profile-prototype/EditNameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "onUpdate(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "profile-prototype/ProfileViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ProfileViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - bf99ad8d756fa80f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.editPictureImageView.getter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - c4fb5995f42f79bb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.editPictureImageView.setter : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - 989600075cd581c5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.editPictureImageView.modify : Swift.Optional&lt;__C.UIImageView&gt;"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - a0be76e2e8e3f5b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.editPictureImageView.modify : Swift.Optional&lt;__C.UIImageView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - 9eb62a4a336c41aa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; profile_prototype.ProfileViewController"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "F26E8597-5392-408F-8BF8-9BB2602D087C - f87eef2f5f08e8c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "profile_prototype.ProfileViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;profile_prototype.ProfileViewController&gt;"
+                  moduleName = "profile-prototype"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dzhuang/git/profile-prototype/profile-prototype/ProfileViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "256">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
