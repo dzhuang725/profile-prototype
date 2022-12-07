@@ -17,5 +17,9 @@ Profile Prototye is prototype that allows user to edit their profile information
 - [x] Changes stays after reopening the app.
 - [x] Tested on iPhone SE and iPhone 14 Pro
 
+### App Walkthrough GIF
+
+<img src="https://i.imgur.com/0zj8amZ.gif" width=320><br>
+
 ## Notes
 Installation/setup: After coloning, open with XCode and run with any simulator or iPhone prefered. 
