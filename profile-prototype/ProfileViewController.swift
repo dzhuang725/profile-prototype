@@ -34,7 +34,7 @@ class ProfileViewController: UIViewController, UITableViewDataSource, UITableVie
         // Do any additional setup after loading the view.
         
         // Set default values
-        UserDefaults.standard.set(false, forKey: "userChangedInfo")
+        // UserDefaults.standard.set(false, forKey: "userChangedInfo")
         UserDefaults.standard.set("Micah", forKey: "FirstName")
         UserDefaults.standard.set("Smith", forKey: "LastName")
     }
